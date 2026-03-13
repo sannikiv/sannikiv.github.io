@@ -4,8 +4,9 @@ date: 2025-01-29
 tags: ["immigration","labor market testing","wages","Finland"]
 author: ["Sanni Kiviholma","Jeremias Nieminen","Ohto Kanninen","Hannu Karhunen"]
 description: "Study of removing labor market testing requirements for non-EU workers in Finland."
-summary: "Removing labor market testing increased non-EU worker inflows and had heterogeneous effects on wages."
+summary: ""
 status: "working-paper"
+hideSummary: true
 editPost:
     URL: "https://labore.fi/wp-content/uploads/2025/01/Tyopapereita-352.pdf"
     Text: "Labore Working Paper"
