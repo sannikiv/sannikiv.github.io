@@ -2,9 +2,9 @@
 title: "Equity and Efficiency in Anti-Discrimination Policy: Evidence from an Anonymous Hiring Pilot"
 date: 2025-05-17
 tags: ["discrimination","anonymous hiring","field experiment","Finland"]
-author: ["Sanni Kiviholma","Tuomo Virkola","Ohto Kanninen"]
+author: ["Ohto Kanninen","Sanni Kiviholma","Tuomo Virkola"]
 description: "Study of anonymous hiring using a City of Helsinki pilot program. R&R at The Review of Economics and Statistics."
-summary: "Anonymous hiring increased foreign-named applicants' hiring chances without hurting efficiency. R&R at The Review of Economics and Statistics."
+summary: "R&R at The Review of Economics and Statistics."
 status: "working-paper"
 editPost:
     URL: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4567818"
@@ -19,4 +19,4 @@ Anonymous hiring restricts the information available to hiring managers, potenti
 
 ##### Citation
 
-Kiviholma, Sanni, Tuomo Virkola, and Ohto Kanninen. 2025. "Equity and Efficiency in Anti-Discrimination Policy: Evidence from an Anonymous Hiring Pilot."
+Ohto Kanninen, Sanni Kiviholma, and Tuomo Virkola. 2025. "Equity and Efficiency in Anti-Discrimination Policy: Evidence from an Anonymous Hiring Pilot."

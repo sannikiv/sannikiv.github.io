@@ -2,9 +2,8 @@
 title: "Regulating Labor Immigration: The Effects of Lifting Labor Market Testing"
 date: 2025-01-29
 tags: ["immigration","labor market testing","wages","Finland"]
-author: ["Sanni Kiviholma","Jeremias Nieminen","Ohto Kanninen","Hannu Karhunen"]
+author: ["Jeremias Nieminen","Sanni Kiviholma","Ohto Kanninen","Hannu Karhunen"]
 description: "Study of removing labor market testing requirements for non-EU workers in Finland."
-summary: ""
 status: "working-paper"
 hideSummary: true
 editPost:
@@ -20,4 +19,4 @@ Labor market testing (LMT) requires firms to demonstrate there are no local work
 
 ##### Citation
 
-Kiviholma, Sanni, Jeremias Nieminen, Ohto Kanninen, and Hannu Karhunen. 2025. "Regulating Labor Immigration: The Effects of Lifting Labor Market Testing." Labore Working Paper 352.
+Jeremias Nieminen, Sanni Kiviholma, Ohto Kanninen, and Hannu Karhunen. 2025. "Regulating Labor Immigration: The Effects of Lifting Labor Market Testing." Labore Working Paper 352.

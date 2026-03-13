@@ -2,9 +2,9 @@
 title: "Sanni Kiviholma"
 ---
 
-**Post-doctoral Researcher at the Department of Economics, Faculty of Business and Economics, University of Lausanne.**
+**Postdoctoral Researcher at the Department of Economics, Faculty of Business and Economics, University of Lausanne.**
 
-**Research Fellow at the Labour Institute for Economic Research Labore.**
+**Senior Researcher at the Labour Institute for Economic Research Labore.**
 
 I received my DSc in Economics from the University of Jyväskylä in Finland.
 

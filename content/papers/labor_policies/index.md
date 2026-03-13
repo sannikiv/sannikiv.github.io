@@ -3,8 +3,8 @@ title: "Labor Policies and Immigrant Employment"
 date: 2025-09-01
 tags: ["immigration","labor market policy","integration","survey"]
 author: ["Sanni Kiviholma","Hannu Karhunen"]
-description: "Survey of integration and active labor market policies for immigrant employment in Europe. Published in Journal of Economic Surveys, 2025."
-summary: "Survey of integration and active labor market policies for immigrant employment in Europe."
+description: "Published in Journal of Economic Surveys."
+summary: "Published in Journal of Economic Surveys."
 status: "publication"
 editPost:
     URL: "http://doi.org/10.1111/joes.70010"
