@@ -1,0 +1,36 @@
+{{- define "main" }}
+
+{{- $allPages := .Pages }}
+
+{{- $groups := slice
+  (dict "label" "Publications"    "status" "publication")
+  (dict "label" "Working Papers"  "status" "working-paper")
+  (dict "label" "Work in Progress" "status" "wip")
+}}
+
+{{- range $groups }}
+{{- $pages := where $allPages "Params.status" .status }}
+{{- if $pages }}
+<h2 class="papers-section-heading">{{ .label }}</h2>
+{{- range $pages }}
+<article class="post-entry">
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">{{ .Title }}</h2>
+  </header>
+  {{- if (ne (.Param "hideSummary") true) }}
+  <div class="entry-content">
+    <p>{{ .Summary | plainify | htmlUnescape }}</p>
+  </div>
+  {{- end }}
+  {{- if not (.Param "hideMeta") }}
+  <footer class="entry-footer">
+    {{- partial "post_meta.html" . -}}
+  </footer>
+  {{- end }}
+  <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
+</article>
+{{- end }}
+{{- end }}
+{{- end }}
+
+{{- end }}

@@ -1,0 +1,13 @@
+---
+title: "Sanni Kiviholma"
+---
+
+**Post-doctoral Researcher at the Department of Economics, Faculty of Business and Economics, University of Lausanne.**
+
+**Research Fellow at the Labour Institute for Economic Research Labore.**
+
+I received my DSc in Economics from the University of Jyväskylä in Finland.
+
+During my doctoral studies I visited the University of Melbourne.
+
+I do empirical research using microdata. My research interests are in labor and public economics, with a special interest in topics related to migration, gender, and equality.
