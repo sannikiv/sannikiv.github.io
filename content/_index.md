@@ -6,7 +6,7 @@ title: "Sanni Kiviholma"
 
 **Senior Researcher at the Labour Institute for Economic Research Labore.**
 
-I received my DSc in Economics from the University of Jyväskylä in Finland.
+I received my doctoral degree in Economics from the University of Jyväskylä in Finland.
 
 During my doctoral studies I visited the University of Melbourne.
 
