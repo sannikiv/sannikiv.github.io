@@ -8,7 +8,7 @@ summary: "R&R at The Review of Economics and Statistics."
 status: "working-paper"
 editPost:
     URL: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4567818"
-    Text: "SSRN"
+    Text: "Workin Paper"
 ---
 
 ##### Abstract

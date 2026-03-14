@@ -8,7 +8,7 @@ status: "working-paper"
 hideSummary: true
 editPost:
     URL: "https://labore.fi/wp-content/uploads/2025/01/Tyopapereita-352.pdf"
-    Text: "Labore Working Paper"
+    Text: "Working Paper"
 ---
 
 ##### Abstract
