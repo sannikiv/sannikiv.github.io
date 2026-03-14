@@ -1,7 +1,6 @@
 baseURL: "https://www.sannikiviholma.com/"
 title: Sanni Kiviholma
 theme: PaperMod
-googleAnalytics: G-NENS0EF9LK
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
