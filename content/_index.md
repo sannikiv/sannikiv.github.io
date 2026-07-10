@@ -2,7 +2,7 @@
 title: "Sanni Kiviholma"
 ---
 
-**Postdoctoral Researcher at the Department of Economics, Faculty of Business and Economics, University of Lausanne.**
+**Visiting Researcher at the Department of Economics, Faculty of Business and Economics, University of Lausanne.**
 
 **Senior Researcher at the Labour Institute for Economic Research Labore.**
 
